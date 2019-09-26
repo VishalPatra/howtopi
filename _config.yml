@@ -1,52 +1,55 @@
-# Site
-name: "How to Pi"
-title: "How to Pi"
-description: "Jekyll Theme for Blogging"
-meta_description: "Raspberrypi projects tutorials and a whole lot more! | Learn new projects and product news for Rpi. "
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+---
+title: How to Pi
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: How to Pi
+description: Jekyll Theme for Blogging
+meta_description: 'Raspberrypi projects tutorials and a whole lot more! | Learn new
+  projects and product news for Rpi. '
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
 paginate: 12
-baseurl: '/'
-email: 'vishalpatra@outlook.com'
-google_analytics: 'UA-148825422-1'
-disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
-
-# Authors
+baseurl: "/"
+email: vishalpatra@outlook.com
+google_analytics: UA-148825422-1
+disqus: demowebsite
+sharethis: <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>
 authors:
   sal:
     name: Vishal Patra
     display_name: Vip3R
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: vishalpatra@outlook.com
-    web: #
+    web: 
     twitter: https://twitter.com/notvishalpatra
-    description: "Ill edit this later"
+    description: Ill edit this later
   john:
     name: John Doe
     display_name: John
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: #
-    web: #
-    twitter: #
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
-# Plugins
-plugins: 
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-        
-# Archives
+    email: 
+    web: 
+    twitter: 
+    description: This is the author box. Write a short description of the author here.
+      You are currently previewing Affiliates theme demo, a Jekyll template compatible
+      with Github pages.
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
+  - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Other
+    category: "/category/:name/"
 markdown: kramdown
 highlighter: rouge
