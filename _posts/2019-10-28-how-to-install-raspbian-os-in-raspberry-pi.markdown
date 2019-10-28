@@ -8,6 +8,7 @@ tags:
 - raspbian
 - beginner
 - tutorials
+image: "/uploads/rpi.jpg"
 layout: post-right-sidebar
 ---
 
