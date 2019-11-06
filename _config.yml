@@ -2,6 +2,10 @@
 title: How to Pi
 timezone: UTC
 collections:
+  guide:
+    title: Posts
+    output: true
+    category: guide
   posts:
     title: Posts
     output: true
