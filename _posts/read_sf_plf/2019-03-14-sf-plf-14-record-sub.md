@@ -1,17 +1,17 @@
 ---
 title: "「SF-PLF」14 RecordSub"
-subtitle: "Programming Language Foundations - Subtyping with Records"
+date: 2019-03-14 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - Subtyping with Records
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
-
 
 ```coq
 Inductive ty : Type :=

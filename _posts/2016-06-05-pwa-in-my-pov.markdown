@@ -1,17 +1,16 @@
 ---
-layout:     keynote
-title:      "Progressive Web App 之我见"
-subtitle:   "🎞  Slides:Progressive Web App, in my points of view"
-iframe:     "//huangxuan.me/pwa-in-my-pov/"
-nav-style:  "invert"
-date:       2016-06-05
-author:     "Hux"
+title: Progressive Web App 之我见
+date: 2016-06-05 00:00:00 Z
 tags:
-    - Slides
-    - Web
-    - PWA
+- Slides
+- Web
+- PWA
+layout: keynote
+subtitle: "\U0001F39E  Slides:Progressive Web App, in my points of view"
+iframe: "//huangxuan.me/pwa-in-my-pov/"
+nav-style: invert
+author: Hux
 ---
-
 
 > 下滑这里查看更多内容
 

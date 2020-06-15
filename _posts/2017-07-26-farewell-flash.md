@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "Farewell, Flash. 感谢你，但这一次是真正的永别。"
-subtitle: "So long, and thanks for all the Flash"
-author: "Hux"
-header-img: "img/post-bg-farewell-flash.jpg"
-header-mask: 0.2
+title: Farewell, Flash. 感谢你，但这一次是真正的永别。
+date: 2017-07-26 00:00:00 Z
 tags:
-  - Web
-  - Flash
+- Web
+- Flash
+layout: post
+subtitle: So long, and thanks for all the Flash
+author: Hux
+header-img: img/post-bg-farewell-flash.jpg
+header-mask: 0.2
 ---
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/28109200)，转载请保留链接 ;)

@@ -1,11 +1,12 @@
 ---
-title: "Peter John Landin"
+title: Peter John Landin
+date: 2019-09-13 00:00:00 Z
+tags:
+- CS Idols
 subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
-tags:
-  - CS Idols
 ---
 
 > [wiki](https://en.wikipedia.org/wiki/Peter_Landin) | [维基](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81)

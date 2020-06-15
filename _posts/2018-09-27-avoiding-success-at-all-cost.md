@@ -1,14 +1,15 @@
 ---
+title: Avoiding success at all cost
+date: 2018-09-27 00:00:00 Z
+tags:
+- Haskell
+- 笔记
+- "\U0001F1EC\U0001F1E7"
 layout: post
-title: "Avoiding success at all cost"
 subtitle: 'Watching "Escape from the Ivory Tower: The Haskell Journey"'
-author: "Hux"
+author: Hux
 header-style: text
 lang: en
-tags:
-  - Haskell
-  - 笔记
-  - 🇬🇧
 ---
 
 "Avoiding success at all cost" is the informal motto behinds [Haskell](https://www.haskell.org/). It could be parenthesized in two ways, either "Avoiding (success at all cost)" or "(Avoiding sucess) (at all cost)". 

@@ -1,18 +1,17 @@
 ---
 title: "「SF-PLF」10 Sub"
-subtitle: "Programming Language Foundations - Subtyping (子类型化)"
+date: 2019-03-10 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - Subtyping (子类型化)
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
-
-
 
 Concepts
 --------

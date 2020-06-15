@@ -1,18 +1,18 @@
 ---
 title: "「SF-PLF」18 UseAuto"
-subtitle: "Programming Language Foundations - Theory And Practice Of Automation In Coq Proofs"
+date: 2019-03-18 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - Theory And Practice Of Automation In
+  Coq Proofs
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
-
-
 
 ## Basic Features of Proof Search
 

@@ -1,16 +1,15 @@
 ---
-layout:     post
-title:      "「译」ES5, ES6, ES2016, ES.Next: JavaScript 的版本是怎么回事？"
-subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
-date:       2015-09-22
-author:     "Hux"
-header-img: "img/post-bg-js-version.jpg"
+title: "「译」ES5, ES6, ES2016, ES.Next: JavaScript 的版本是怎么回事？"
+date: 2015-09-22 00:00:00 Z
 tags:
-    - Web
-    - JavaScript
-    - 译
+- Web
+- JavaScript
+- 译
+layout: post
+subtitle: 'ES5, ES6, ES2016, ES.Next: What''s going on with JavaScript versioning?'
+author: Hux
+header-img: img/post-bg-js-version.jpg
 ---
-
 
 JavaScript 有着很奇怪的命名史。
 

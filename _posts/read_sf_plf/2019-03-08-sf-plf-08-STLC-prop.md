@@ -1,15 +1,16 @@
 ---
 title: "「SF-PLF」8 StlcProp"
-subtitle: "Programming Language Foundations - Properties of STLC"
+date: 2019-03-08 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - Properties of STLC
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
 
 基本的定理依赖关系 top-down: 

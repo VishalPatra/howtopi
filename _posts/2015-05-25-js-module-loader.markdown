@@ -1,18 +1,16 @@
 ---
-layout:     post
-title:      "JavaScript Module Loader"
-subtitle:   "CommonJS，RequireJS，SeaJS 归纳笔记"
-date:       2015-05-25
-author:     "Hux"
-header-img: "img/post-bg-js-module.jpg"
-catalog: true
+title: JavaScript Module Loader
+date: 2015-05-25 00:00:00 Z
 tags:
-    - 笔记
-    - Web
-    - JavaScript
+- 笔记
+- Web
+- JavaScript
+layout: post
+subtitle: CommonJS，RequireJS，SeaJS 归纳笔记
+author: Hux
+header-img: img/post-bg-js-module.jpg
+catalog: true
 ---
-
-
 
 ## Foreword
 

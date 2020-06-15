@@ -1,12 +1,13 @@
 ---
-layout: post
-title: 「知乎」如何理解 <code>document</code> 对象是 <code>HTMLDocument</code> 的实例？
-subtitle: Why is <code>document</code> an instance of <code>HTMLDocument</code>?
-author: "Hux"
-header-style: text
+title: "「知乎」如何理解 <code>document</code> 对象是 <code>HTMLDocument</code> 的实例？"
+date: 2017-04-06 00:00:00 Z
 tags:
-  - Web
-  - 知乎
+- Web
+- 知乎
+layout: post
+subtitle: Why is <code>document</code> an instance of <code>HTMLDocument</code>?
+author: Hux
+header-style: text
 ---
 
 > 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/57601873/answer/155685476)

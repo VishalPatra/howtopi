@@ -1,15 +1,16 @@
 ---
 title: "「SF-PLF」9 MoreStlc"
-subtitle: "Programming Language Foundations - More on The Simply Typed Lambda-Calculus"
+date: 2019-03-09 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - More on The Simply Typed Lambda-Calculus
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
 
 > make the STLC into a PL!

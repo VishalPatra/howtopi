@@ -1,14 +1,14 @@
 ---
-layout:     post
-title:      "hUX 随想录（一）：Digital native 数字原住民"
-subtitle:   " 两岁的侄女天天叫着手机手机 "
-date:       2015-03-25 
-author:     "Hux"
-header-img: "img/post-bg-digital-native.jpg"
-catalog: true
+title: hUX 随想录（一）：Digital native 数字原住民
+date: 2015-03-25 00:00:00 Z
 tags:
-    - hUX 随想录
-    - UX/UI
+- hUX 随想录
+- UX/UI
+layout: post
+subtitle: " 两岁的侄女天天叫着手机手机 "
+author: Hux
+header-img: img/post-bg-digital-native.jpg
+catalog: true
 ---
 
 > 那是一种与生俱来的天赋，就好像矮人天生擅长舞锤，而精灵则拥有魔法庇护。那些数字时代的原住民们，天生具备着一种操纵数字世界的领悟。

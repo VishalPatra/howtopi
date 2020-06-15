@@ -1,15 +1,16 @@
 ---
 title: "「SF-PLF」13 References"
-subtitle: "Programming Language Foundations - Typing Mutable References"
+date: 2019-03-13 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - Typing Mutable References
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
 
 > Hux: this chapter is very similar to TAPL - ch13 References

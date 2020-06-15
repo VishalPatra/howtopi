@@ -1,17 +1,17 @@
 ---
 title: "「SF-LC」15 Extraction"
-subtitle: "Logical Foundations - Extracting ML From Coq"
+date: 2019-01-15 00:00:00 Z
+tags:
+- LF (逻辑基础)
+- SF (软件基础)
+- Coq
+- 笔记
+subtitle: Logical Foundations - Extracting ML From Coq
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - LF (逻辑基础)
-  - SF (软件基础)
-  - Coq
-  - 笔记
 ---
-
 
 Basic Extraction
 ----------------

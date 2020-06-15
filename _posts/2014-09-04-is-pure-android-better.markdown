@@ -1,14 +1,14 @@
 ---
-layout:     post
-title:      "「知乎」对中国用户而言，Pure Android 是否比 MIUI 或 Flyme 体验更好？"
-subtitle:   ""
-date:       2014-09-04 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-android.jpg"
+title: "「知乎」对中国用户而言，Pure Android 是否比 MIUI 或 Flyme 体验更好？"
+date: 2014-09-04 12:00:00 Z
 tags:
-    - 知乎
-    - 产品
-    - UX/UI
+- 知乎
+- 产品
+- UX/UI
+layout: post
+subtitle: ''
+author: Hux
+header-img: img/post-bg-android.jpg
 ---
 
 > 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/25104721/answer/30108886)

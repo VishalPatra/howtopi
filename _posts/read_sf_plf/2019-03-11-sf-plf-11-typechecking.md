@@ -1,15 +1,16 @@
 ---
 title: "「SF-PLF」11. TypeChecking"
-subtitle: "Programming Language Foundations - A Typechecker for STLC"
+date: 2019-03-11 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - A Typechecker for STLC
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
 
 > The `has_type` relation is good but doesn't give us a _executable algorithm_ -- 不是一个算法

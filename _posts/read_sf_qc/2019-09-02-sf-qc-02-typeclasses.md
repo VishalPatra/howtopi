@@ -1,15 +1,16 @@
 ---
 title: "「SF-QC」2 TypeClasses"
-subtitle: "Quickcheck - A Tutorial on Typeclasses in Coq"
+date: 2019-09-02 00:00:00 Z
+tags:
+- SF (软件基础)
+- QC (Quickcheck)
+- Coq
+- 笔记
+subtitle: Quickcheck - A Tutorial on Typeclasses in Coq
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - QC (Quickcheck)
-  - Coq
-  - 笔记
 ---
 
 Considerring printing different types with this common idiom:

@@ -1,15 +1,16 @@
 ---
 title: "「SF-LC」9 ProofObjects"
-subtitle: "Logical Foundations - The Curry-Howard Correspondence "
+date: 2019-01-09 00:00:00 Z
+tags:
+- LF (逻辑基础)
+- SF (软件基础)
+- Coq
+- 笔记
+subtitle: 'Logical Foundations - The Curry-Howard Correspondence '
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - LF (逻辑基础)
-  - SF (软件基础)
-  - Coq
-  - 笔记
 ---
 
 > "Algorithms are the computational content of proofs." —Robert Harper

@@ -1,16 +1,15 @@
 ---
-layout:     keynote
-title:      "JavaScript 模块化七日谈"
-subtitle:   "🎞  Slides:JavaScript Modularization Journey"
-iframe:     "//huangxuan.me/js-module-7day/"
-date:       2015-07-09
-author:     "Hux"
+title: JavaScript 模块化七日谈
+date: 2015-07-09 00:00:00 Z
 tags:
-    - Slides
-    - Web
-    - JavaScript
+- Slides
+- Web
+- JavaScript
+layout: keynote
+subtitle: "\U0001F39E  Slides:JavaScript Modularization Journey"
+iframe: "//huangxuan.me/js-module-7day/"
+author: Hux
 ---
-
 
 > 下滑这里查看更多内容
 

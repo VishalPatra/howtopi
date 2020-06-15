@@ -1,15 +1,16 @@
 ---
 title: "「SF-LC」2 Induction"
-subtitle: "Logical Foundations - Proof by Induction"
+date: 2019-01-02 00:00:00 Z
+tags:
+- LF (逻辑基础)
+- SF (软件基础)
+- Coq
+- 笔记
+subtitle: Logical Foundations - Proof by Induction
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - LF (逻辑基础)
-  - SF (软件基础)
-  - Coq
-  - 笔记
 ---
 
 ## Review (only in slide)

@@ -1,15 +1,14 @@
 ---
-layout:     post
-title:      "Definition of End to End User Scenarios"
-date:       2015-03-31 
-author:     "Hux"
-header-img: "img/post-bg-e2e-ux.jpg"
-lang: en
+title: Definition of End to End User Scenarios
+date: 2015-03-31 00:00:00 Z
 tags:
-  - UX/UI
-  - 🇬🇧
+- UX/UI
+- "\U0001F1EC\U0001F1E7"
+layout: post
+author: Hux
+header-img: img/post-bg-e2e-ux.jpg
+lang: en
 ---
-
 
 ### End to end?
 

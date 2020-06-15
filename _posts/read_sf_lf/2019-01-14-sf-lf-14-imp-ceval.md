@@ -1,17 +1,17 @@
 ---
 title: "「SF-LC」14 ImpCEvalFun"
-subtitle: "Logical Foundations - An Evaluation Function For Imp"
+date: 2019-01-14 00:00:00 Z
+tags:
+- LF (逻辑基础)
+- SF (软件基础)
+- Coq
+- 笔记
+subtitle: Logical Foundations - An Evaluation Function For Imp
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - LF (逻辑基础)
-  - SF (软件基础)
-  - Coq
-  - 笔记
 ---
-
 
 Step-Indexed Evaluator
 ----------------------

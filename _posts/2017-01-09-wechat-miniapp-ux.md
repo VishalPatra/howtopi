@@ -1,14 +1,15 @@
 ---
-layout: post
-title: "如何客观地评价「小程序」的体验?"
-subtitle: "Wechat Mini-Program vs. the Web, a UX comparison"
-author: "Hux"
-header-img: ""
-header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
+title: 如何客观地评价「小程序」的体验?
+date: 2017-01-09 00:00:00 Z
 tags:
-  - Web
-  - Wechat
-  - UX/UI
+- Web
+- Wechat
+- UX/UI
+layout: post
+subtitle: Wechat Mini-Program vs. the Web, a UX comparison
+author: Hux
+header-img: ''
+header-bg-css: 'linear-gradient(to right, #24b94a, #38ef7d);'
 ---
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/24782839)，转载请保留链接 ;)

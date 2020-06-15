@@ -1,15 +1,16 @@
 ---
-layout:     post
-title:      "聊聊「阿里旅行 · 去啊」—— 行业与战略 "
-subtitle:   "聊聊在线旅行行业与老东家的产品思路"
-date:       2015-06-15
-author:     "Hux"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
+title: '聊聊「阿里旅行 · 去啊」—— 行业与战略 '
+date: 2015-06-15 00:00:00 Z
 tags:
-    - 产品
-    - 阿里
+- 产品
+- 阿里
+layout: post
+subtitle: 聊聊在线旅行行业与老东家的产品思路
+author: Hux
+header-img: img/post-bg-alitrip.jpg
+catalog: true
 ---
+
 > 本篇为该系列第一篇 —— 行业与战略，让我们聊聊行业、战略与格局。
 
 

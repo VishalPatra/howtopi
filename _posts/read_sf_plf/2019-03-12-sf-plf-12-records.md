@@ -1,17 +1,17 @@
 ---
 title: "「SF-PLF」12 Records"
-subtitle: "Programming Language Foundations - Adding Records To STLC"
+date: 2019-03-12 00:00:00 Z
+tags:
+- SF (软件基础)
+- PLF (编程语言基础)
+- Coq
+- 笔记
+subtitle: Programming Language Foundations - Adding Records To STLC
 layout: post
-author: "Hux"
+author: Hux
 header-style: text
 hidden: true
-tags:
-  - SF (软件基础)
-  - PLF (编程语言基础)
-  - Coq
-  - 笔记
 ---
-
 
 ## Adding Records
 

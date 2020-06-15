@@ -1,13 +1,13 @@
 ---
-layout:     post
-title:      "「知乎」如何看待微信屏蔽快的打车事件？"
-subtitle:   "恰有小感。"
-date:       2014-12-13
-author:     "Hux"
-header-img: "img/post-bg-kuaidi.jpg"
+title: "「知乎」如何看待微信屏蔽快的打车事件？"
+date: 2014-12-13 00:00:00 Z
 tags:
-    - 知乎
-    - 产品
+- 知乎
+- 产品
+layout: post
+subtitle: 恰有小感。
+author: Hux
+header-img: img/post-bg-kuaidi.jpg
 ---
 
 > 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/26774049/answer/35041458)

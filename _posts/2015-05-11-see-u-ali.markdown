@@ -1,15 +1,14 @@
 ---
-layout:     post
-title:      "See you, Alibaba "
-subtitle:   "再见，阿里。"
-date:       2015-05-11
-author:     "Hux"
-header-img: "img/post-bg-see-u-ali.jpg"
+title: 'See you, Alibaba '
+date: 2015-05-11 00:00:00 Z
 tags:
-  - 生活
-  - 阿里
+- 生活
+- 阿里
+layout: post
+subtitle: 再见，阿里。
+author: Hux
+header-img: img/post-bg-see-u-ali.jpg
 ---
-
 
 > 世界那么大，我想去看看
 
